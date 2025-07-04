@@ -1,4 +1,8 @@
 # 📊 Adventure Works Sales Analysis - Power BI Dashboard
+<p align="center">
+  <img src="Images/Sales-Analysis.png" width="1000"/>
+  <img src="Images/Time-Series-Analysis.png" width="1000"/>
+</p>
 
 ## 📁 Project Overview
 
